@@ -1,0 +1,5 @@
+# Private research digests from paid guides: never commit/publish
+research/private/
+node_modules/
+dist/
+.playwright-mcp/
